@@ -1,0 +1,34 @@
+Adminmempunyai akses penuh bisa CRUD
+Petugas tidak bisa sepenuhnya bisa mengakses cuma bisa melihat
+
+Owner/Pemilik 
+1 Project itu 1 database
+
+nama db siakad
+nama tabel : dosen, mahasiswa, matakuliah, nilai
+
+user : level admin dan petugas
+
+dosen 
+	id
+	nama
+	alamat dll
+	username
+	password
+	level
+
+mhs
+	id
+	nim
+	jurusan
+	angkatan dll
+	username
+	password
+	level
+
+	koneksi cuma 1
+	bedakan setiap folder admin dan petugas
+	klo gk bisa di hari 23 maka tanggal 21
+
+
+
